@@ -1,3 +1,5 @@
+REMOTE
+
 # Merge---conflicts
 
 Blabla
